@@ -5,8 +5,6 @@
 
 "가짜는 기록하지 않는다"는 원칙 아래, 단순한 지식의 나열이 아닌 직접 실행하고 검증한 '진짜' 자산만을 남깁니다.
 
-모든 학습 과정은 개발 유튜브 채널 [📺 [후츠릿]](https://www.youtube.com/@chutzrit)에서 공유되는 기술적 배경을 바탕으로 합니다.
-
 ---
 
 ### 📂 지식 카테고리
@@ -14,40 +12,17 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
-- [2026-03-17-디스코드-HTTP-Request-폴링-방법](n8n/2026-03-17-디스코드-HTTP-Request-폴링-방법.md)
-
-- [2026-03-01-n8n-보안-강화](n8n/2026-03-01-n8n-보안-강화.md)
-
-- [2026-02-21-n8n-중복-실행-버그](n8n/2026-02-21-n8n-중복-실행-버그.md)
-
-- [2026-02-21-DuckDNS-Lets-Encrypt-CAA-오류](n8n/2026-02-21-DuckDNS-Lets-Encrypt-CAA-오류.md)
-
-- [2026-02-09-n8n-디스코드-메시지-자동-변환-및-푸시-워크플로우](n8n/2026-02-09-n8n-디스코드-메시지-자동-변환-및-푸시-워크플로우.md)
-
-- [2026-01-30-n8n-JSON-정규표현식-처리](n8n/2026-01-30-n8n-JSON-정규표현식-처리.md)
 </details>
 <br>
 
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
-- [2026-01-30-파이썬-리스트-컴프리헨션-과-조건문](python/2026-01-30-파이썬-리스트-컴프리헨션-과-조건문.md)
-
 </details>
 <br>
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
-
-- [2026-03-12-멀티모달의-이해](ai-agent/2026-03-12-멀티모달의-이해.md)
-
-- [2026-03-11-LangSmith를-활용한-LLM-애플리케이션-디버깅-및-최적화](ai-agent/2026-03-11-LangSmith를-활용한-LLM-애플리케이션-디버깅-및-최적화.md)
-
-- [2026-03-11-LangChain-핵심-구성-요소-및-LCEL-활용](ai-agent/2026-03-11-LangChain-핵심-구성-요소-및-LCEL-활용.md)
-
-- [2026-03-11-LangChain-구성-요소-및-LCEL-활용](ai-agent/2026-03-11-LangChain-구성-요소-및-LCEL-활용.md)
-
-- [2026-01-30-몰트봇-품절-현상](ai-agent/2026-01-30-몰트봇-품절-현상.md)
 
 </details>
 
