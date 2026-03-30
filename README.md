@@ -18,6 +18,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-03-30-VSCode에서-CMake-환경-설정-가이드](python/2026-03-30-VSCode에서-CMake-환경-설정-가이드.md)
+
 </details>
 <br>
 
