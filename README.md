@@ -20,6 +20,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-03-30-파이썬-리스트-컴프리헨션-다중-조건문-활용-가이드](python/2026-03-30-파이썬-리스트-컴프리헨션-다중-조건문-활용-가이드.md)
+
 - [2026-03-30-VSCode에서-CMake-환경-설정-가이드](python/2026-03-30-VSCode에서-CMake-환경-설정-가이드.md)
 
 </details>
